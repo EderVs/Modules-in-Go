@@ -2,6 +2,6 @@ package submodule
 
 import "fmt"
 
-func PrintSubmodule() {
-    fmt.Printf("This is the submodule in the version %s", version)
+func PrintSubmodule(name string) {
+    fmt.Printf("Hello, %s. This is the submodule in the version %s", name, version)
 }
