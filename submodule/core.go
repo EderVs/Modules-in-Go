@@ -1,3 +1,3 @@
 package submodule
 
-const version = "v1.0.0"
+const version = "v1.0.1"

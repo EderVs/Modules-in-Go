@@ -3,5 +3,5 @@ package submodule
 import "fmt"
 
 func PrintSubmodule() {
-    fmt.Printf("This is the submodule in the version %s", version)
+    fmt.Printf("This is the submodule in the version %s\n", version)
 }
