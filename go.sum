@@ -6,3 +6,9 @@ github.com/edervs/Modules-in-Go/submodule/v2 v2.0.0 h1:v3T2UCyktRibMlZ9hmXllAKlZ
 github.com/edervs/Modules-in-Go/submodule/v2 v2.0.0/go.mod h1:1XXP2Zv9vHcgwuOrjPx7m9H/c/lbcYTAfsSQclB+oZc=
 github.com/edervs/Modules-in-Go/submodule/v2 v2.0.1 h1:zTogRQh/XeX+wbAMVnqgJyJ9Wc7A7Vi2xCL1/aFW2gI=
 github.com/edervs/Modules-in-Go/submodule/v2 v2.0.1/go.mod h1:1XXP2Zv9vHcgwuOrjPx7m9H/c/lbcYTAfsSQclB+oZc=
+github.com/edervs/Modules-in-Go/submodule/v2 v2.0.2 h1:eKT0JW9FsvviRrOUCF5pL3xuspAYrtK6u0Y+lsC41zk=
+github.com/edervs/Modules-in-Go/submodule/v2 v2.0.2/go.mod h1:1XXP2Zv9vHcgwuOrjPx7m9H/c/lbcYTAfsSQclB+oZc=
+github.com/edervs/Modules-in-Go/submodule/v3 v3.0.0 h1:6/6zatkEugG5R3RVuN3tlJtCusTgbo+a3XJkjq872MI=
+github.com/edervs/Modules-in-Go/submodule/v3 v3.0.0/go.mod h1:jBHT/KPYSmdAKDSYZNj0aSzl5l7TE/UY2hRcXKMudyo=
+github.com/edervs/Modules-in-Go/submodule2 v1.0.1 h1:1+ZcZNhNfbwP7Mpj9Suxfjs8jEBzKUKnz5g6/ylgO4E=
+github.com/edervs/Modules-in-Go/submodule2 v1.0.1/go.mod h1:JDhlx0CuxdQMfQ7qL9qbUR+SZkjwugzgEUeCDxUD9mY=
